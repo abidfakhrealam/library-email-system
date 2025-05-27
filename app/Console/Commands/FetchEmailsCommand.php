@@ -2,7 +2,7 @@
 
 namespace App\Console\Commands;
 
-use App\Services\Email\GraphApiService;
+use App\Services\Email\GraphApiService
 use Illuminate\Console\Command;
 use App\Models\User;
 
